@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate on ...
   _music software and interactive art_
 - 📫 How to reach me ...
-  w h i t @ m o rr i ss . rocks
+  `w h i t @ m o rr i ss . rocks`
 
 <!---
 whitmo/whitmo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
